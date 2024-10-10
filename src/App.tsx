@@ -58,8 +58,7 @@ export function App() {
               Confirm travel
               <ArrowRight className="size-7" />
             </button>
-          </div>
-        )}
+          </div>)}
         <p className="text-sm text-zinc-500">
           When planning your travels with Plann.er, you automatically agree<br />to follow our <a className="text-zinc-300 underline" href="#">rules and privacy policies</a>.
         </p>
